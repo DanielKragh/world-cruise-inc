@@ -22,7 +22,7 @@ a
 
 a:hover
 {
-  color: tomato;
+  color: rgb(71, 197, 255);
 }
 
 #menuToggle
@@ -65,7 +65,7 @@ a:hover
   margin-bottom: 5px;
   position: relative;
   
-  background: #000000;
+  background: #ffffff;
   border-radius: 3px;
   
   z-index: 1;
@@ -128,7 +128,7 @@ a:hover
   padding: 50px;
   padding-top: 125px;
   
-  background: #5874c357;
+  background: #31427086;
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
   /* to stop flickering of text in safari */
@@ -143,6 +143,7 @@ a:hover
 {
   padding: 10px 0;
   font-size: 22px;
+  color: #ffffff;
 }
 
 /*
